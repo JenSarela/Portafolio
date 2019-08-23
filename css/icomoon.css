@@ -1224,8 +1224,8 @@
 .icon-old-mobile:before {
     content: "\e9f0";
 }
-.icon-old-phone:before {
-    content: "\e9f1";
+.icon-mobile2:before {
+    content: "\e9e5";
 }
 .icon-palette:before {
     content: "\e9f2";
@@ -1927,7 +1927,7 @@
     content: "\eb16";
 }
 .icon-mobile22:before {
-    content: "\eb17";
+    content: "\e9e5";
 }
 .icon-tablet3:before {
     content: "\eb18";
