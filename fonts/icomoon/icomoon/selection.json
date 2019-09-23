@@ -2712,7 +2712,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"tumblr",
+					"dribbble",
 					"social"
 				],
 				"defaultCode": 57441,
@@ -2723,7 +2723,7 @@
 				"id": 98,
 				"order": 98,
 				"prevSize": 32,
-				"name": "tumblr",
+				"name": "dribbble",
 				"code": 57441
 			},
 			"setIdx": 0,
@@ -2764,7 +2764,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"tumblr",
+					"dribbble",
 					"social"
 				],
 				"defaultCode": 57443,
@@ -2775,7 +2775,7 @@
 				"id": 100,
 				"order": 100,
 				"prevSize": 32,
-				"name": "tumblr",
+				"name": "dribbble",
 				"code": 57443
 			},
 			"setIdx": 0,
@@ -13202,7 +13202,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"tumblr-with-circle"
+					"dribbble-with-circle"
 				],
 				"grid": 20
 			},
@@ -13212,7 +13212,7 @@
 				"order": 517,
 				"prevSize": 20,
 				"code": 60005,
-				"name": "tumblr-with-circle"
+				"name": "dribbble-with-circle"
 			},
 			"setIdx": 2,
 			"setId": 1,
@@ -13226,7 +13226,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"tumblr"
+					"dribbble"
 				],
 				"grid": 20
 			},
@@ -13236,7 +13236,7 @@
 				"order": 518,
 				"prevSize": 20,
 				"code": 60006,
-				"name": "tumblr2"
+				"name": "dribbble2"
 			},
 			"setIdx": 2,
 			"setId": 1,
@@ -13720,7 +13720,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"tumblr-with-circle"
+					"dribbble-with-circle"
 				],
 				"grid": 20
 			},
@@ -13730,7 +13730,7 @@
 				"order": 538,
 				"prevSize": 20,
 				"code": 60026,
-				"name": "tumblr-with-circle"
+				"name": "dribbble-with-circle"
 			},
 			"setIdx": 2,
 			"setId": 1,
@@ -13744,7 +13744,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"tumblr"
+					"dribbble"
 				],
 				"grid": 20
 			},
@@ -13754,7 +13754,7 @@
 				"order": 539,
 				"prevSize": 20,
 				"code": 60027,
-				"name": "tumblr2"
+				"name": "dribbble2"
 			},
 			"setIdx": 2,
 			"setId": 1,
@@ -25864,7 +25864,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"tumblr",
+					"dribbble",
 					"brand",
 					"social"
 				],
@@ -25874,8 +25874,8 @@
 			"properties": {
 				"order": 969,
 				"prevSize": 16,
-				"ligatures": "tumblr, brand31",
-				"name": "tumblr3",
+				"ligatures": "dribbble, brand31",
+				"name": "dribbble3",
 				"id": 424,
 				"code": 60516
 			},
@@ -26359,7 +26359,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"tumblr",
+					"dribbble",
 					"brand",
 					"social"
 				],
@@ -26369,8 +26369,8 @@
 			"properties": {
 				"order": 987,
 				"prevSize": 16,
-				"ligatures": "tumblr, brand49",
-				"name": "tumblr3",
+				"ligatures": "dribbble, brand49",
+				"name": "dribbble3",
 				"id": 442,
 				"code": 60534
 			},
@@ -26386,7 +26386,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"tumblr",
+					"dribbble",
 					"brand",
 					"social"
 				],
@@ -26396,8 +26396,8 @@
 			"properties": {
 				"order": 988,
 				"prevSize": 16,
-				"ligatures": "tumblr2, brand50",
-				"name": "tumblr22",
+				"ligatures": "dribbble2, brand50",
+				"name": "dribbble22",
 				"id": 443,
 				"code": 60535
 			},
